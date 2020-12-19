@@ -1,5 +1,6 @@
 import React from 'react';
-import {Col, Icon, Popover} from "antd";
+import {Col, Popover} from "antd";
+import Icon from '@ant-design/icons';
 import {PlayerCard} from "../player/PlayerCard";
 import {useDrag} from "react-dnd";
 import {ItemTypes} from "../../constants/dragItemTypes";
